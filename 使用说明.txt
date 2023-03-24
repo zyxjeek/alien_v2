@@ -1,0 +1,10 @@
+压缩包分为2个文件夹：Code和Dist
+Code文件夹中包含所有的代码，Dist文件夹里包含编译好的exe程序（____alien_invasion.exe）
+注意：exe文件不可单独运行，必须保证它在Dist文件夹里才能正常运行。
+
+游戏说明
+3条命，←→按键移动，空格发射子弹，q键退出
+
+如有疑问联系张亦逊
+ email: yixun2010@outlook.com
+github: zyxjeek
